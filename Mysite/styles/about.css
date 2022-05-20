@@ -1,0 +1,19 @@
+.img img {
+    width: 110%;
+    max-width: 900px;
+    height: 500px;
+
+}
+.container_inner{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.intro_info{
+    width: 600px;
+}
+.info_text{
+    margin: auto;
+    color: #fff;
+    font-size: 15px;
+}
